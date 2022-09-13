@@ -1,0 +1,20 @@
+{"PatientSchedule": [
+    {
+        "appointTime": "morning",
+        "appointDay": "monday",
+        "name": "Bob",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "afternoon",
+        "appointDay": "tuesday",
+        "name": "Joe",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "morning",
+        "appointDay": "wednesday",
+        "name": "Jack",
+        "appointNum": 1
+    }
+]}

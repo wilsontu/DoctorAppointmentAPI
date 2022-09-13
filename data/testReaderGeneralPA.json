@@ -1,0 +1,38 @@
+{"PatientSchedule": [
+    {
+        "appointTime": "morning",
+        "appointDay": "monday",
+        "name": "brad",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "morning",
+        "appointDay": "monday",
+        "name": "bob",
+        "appointNum": 2
+    },
+    {
+        "appointTime": "afternoon",
+        "appointDay": "monday",
+        "name": "joe",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "afternoon",
+        "appointDay": "tuesday",
+        "name": "will",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "morning",
+        "appointDay": "wednesday",
+        "name": "jack",
+        "appointNum": 1
+    },
+    {
+        "appointTime": "morning",
+        "appointDay": "friday",
+        "name": "joe",
+        "appointNum": 1
+    }
+]}

@@ -1,0 +1,6 @@
+{"PatientSchedule": [{
+    "appointTime": "morning",
+    "appointDay": "monday",
+    "name": "bob",
+    "appointNum": 1
+}]}
